@@ -7,5 +7,3 @@ MADSOLVER987
 3. MADSOLVER987 is open source so anyone can suggest edit to make it better.
 ======================================================================================
 Author- Aarush Chaudhary
-GitHub- https://github.com/AarushChaudhary
-Twitter- https://www.twitter.com/Aarush_987/
